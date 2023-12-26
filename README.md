@@ -2,7 +2,7 @@ Its a Travel Booking Website created in Vanilla Javascript with features like co
 Backend is deployed on render and frontend by Netlify CLI
 
 For more details on project, 
-[Click Here][my-Link]{:target="_blank"}
+[Click Here][my-Link{:target="_blank"}]
 
 
 
